@@ -130,10 +130,7 @@ const product ={
 
 //  You can't conveniently declare another name in the same scope.
 
-const {
-  name: productName,
-  price
-} = product;
+const { name: productName, price } = product;
 // this means "take the name property and store it under a variable called productName"
 
 /*
