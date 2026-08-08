@@ -15,7 +15,6 @@
       <th>Week</th>
       <th>Focus</th>
       <th>Expected Outcome</th>
-      <th>Status</th>
     </tr>
   </thead>
   <tbody>
