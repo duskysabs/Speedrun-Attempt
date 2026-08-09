@@ -267,3 +267,7 @@ function displayName({user}){
         console.log(user.settings?.displayName ?? user.name);
     )
 }
+
+// CORRECT ANSWER HERE WAS
+
+const displayName = user.settings?.displayName ?? user.name;

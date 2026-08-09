@@ -115,7 +115,7 @@ function execute(operation){
     operation();
 }
 
-const sayHello = () =>{
+const sayHello = () => {
     console.log("hello world");
 };
 
